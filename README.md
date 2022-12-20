@@ -6,5 +6,6 @@ In this repository you will find the raw data in an Exel format, but you will al
 
 Any questions or comments are always welcome! Please free free to reach out. Below is a preview of the dashboard created. 
 
+
 <img src="Images/Bike_Sales_Dashboard_SG.png?raw=true">
 
